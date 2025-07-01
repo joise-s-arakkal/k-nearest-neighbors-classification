@@ -1,4 +1,6 @@
 # 🚀 Task 6: K-Nearest Neighbors (KNN) Classification
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NQk1STI-5DW4yhx5Qd_a8j680y-Pm2MC?usp=sharing)
+
 
 This project implements the K-Nearest Neighbors (KNN) algorithm on the Iris dataset using scikit-learn. The workflow includes data normalization, experimenting with different values of **K**, evaluating the model with accuracy and a confusion matrix, and visualizing the decision boundaries.  
 
@@ -6,7 +8,7 @@ This project implements the K-Nearest Neighbors (KNN) algorithm on the Iris data
 
 ## 📂 Dataset
 
-- **Name:** Iris Dataset  
+- **Name:** [Iris Dataset](https://github.com/joise-s-arakkal/k-nearest-neighbors-classification/blob/main/Iris.csv) 
 - **Source:** [Kaggle Link](https://www.kaggle.com/datasets/uciml/iris)  
 - **Classes:** Setosa, Versicolor, Virginica  
 - **Features:** Sepal Length, Sepal Width, Petal Length, Petal Width  
